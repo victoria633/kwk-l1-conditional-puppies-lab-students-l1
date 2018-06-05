@@ -4,7 +4,7 @@ if number>0
 "no more puppies"
 elsif number<=0
 "Well done, Rachel!"
-puts number(0)
+puts less_puppies(0)
 end
  end
  
